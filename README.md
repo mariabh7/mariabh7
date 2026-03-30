@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋🏻‍♀️ | My name is Maria<br>👩🏻‍💻 | 19y , full stack  web devoloper<br>🌱 | I’m currently mastering react <br>💬 | i'm fluent in English and Arabic and do speak french <br>⚡ | Attending to be a full stack web developer
+🙋🏻‍♀️ | My name is Maria<br>👩🏻‍💻 | 19y , full stack  web devoloper<br>🌱 | I’m currently mastering D3.js and GraphQl<br>💬 | i'm fluent in English and Arabic and do speak french <br>⚡ | Attending to be a full stack web developer
 
 
 ## 🌐 Socials:
