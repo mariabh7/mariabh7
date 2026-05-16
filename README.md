@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 My name is Maria <br>👩🏻‍💻 Full stack developer <br>🌍 I'm based in algiers , Algeria<br>✉️ You can contact me at bouhrem.maria@gmail.com<br>🚀 I'm currently  Building  codie - Ai code reviewer<br>🧠 Want to explore AI in the fututre 
+👋 HI ,  My name is Maria <br>👩🏻‍💻 Full stack developer <br> 🚀 I'm currently  Building  codie - Ai code reviewer<br> 🌍 I'm based in algiers , Algeria<br>✉️ You can contact me at bouhrem.maria@gmail.com<br>🧠 Want to explore AI in the fututre 
 
 
 ## 🌐 Socials:
